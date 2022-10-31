@@ -2,7 +2,7 @@
 ### Hello everyone 👋, my name is Vishwajeet
 
 - 💻 &nbsp; I'm an Android Engineer
-- 🌉 &nbsp; I’m working in Pune, Mahashtra
+- 🌉 &nbsp; I’m working in Pune, Maharashtra
 - 💬 &nbsp; Ask me about anything, I'll listen and help 🤗
 - 🤩 &nbsp; I'm inspired by the Android community and events
 - ✍️ &nbsp; Hiring? Find more about my career and experience [here](https://5jkn.short.gy/Resume)
